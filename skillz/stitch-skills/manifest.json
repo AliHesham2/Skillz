@@ -1,0 +1,81 @@
+{
+  "source": "google-labs-code/stitch-skills",
+  "revision": "0337446dadde6f8c94210444e2aa9d546126480f",
+  "skills": [
+    {
+      "name": "code-to-design",
+      "kind": "adapted-upstream",
+      "sha256": "225551de2d1a3faf5ff8b37c601e779b8c2be0d3cc97dd6035842f879be9c682"
+    },
+    {
+      "name": "generate-design",
+      "kind": "adapted-upstream",
+      "sha256": "784405ba72bfbdbfa9879e32b0c917b068ed8e957ba821cdf9e9ccb5a3d2c3cb"
+    },
+    {
+      "name": "manage-design-system",
+      "kind": "adapted-upstream",
+      "sha256": "c05b4e284546b88e16c217352b9ff58d7611943a168d87650157973ebbbbc6c2"
+    },
+    {
+      "name": "extract-design-md",
+      "kind": "adapted-upstream",
+      "sha256": "6e595cbee0c82864a206f24cdc33f63a7871eba93712cd828ea668b4ac443625"
+    },
+    {
+      "name": "extract-static-html",
+      "kind": "adapted-upstream",
+      "sha256": "e8da694b930e326acd3a528a456419a574293be6fc6ebdd62b3e960dacc0ee70"
+    },
+    {
+      "name": "upload-to-stitch",
+      "kind": "adapted-upstream",
+      "sha256": "41c47b6eecaf172d1d0fc3ed385f565b290e6ff9a8125b640bd9de7c78959ade"
+    },
+    {
+      "name": "design-md",
+      "kind": "adapted-upstream",
+      "sha256": "fd2144cabac34b01335ee67b0e3918f233b98f47db8bb07de623e34d7942a554"
+    },
+    {
+      "name": "enhance-prompt",
+      "kind": "adapted-upstream",
+      "sha256": "d072a14695cfab4de3b8e0801c97c5d066125513ca23ebfcba168700cac52866"
+    },
+    {
+      "name": "stitch-loop",
+      "kind": "adapted-upstream",
+      "sha256": "d65269171c8633ce75f349b311151323ca61368981f9f8098c6aab34c3eed013"
+    },
+    {
+      "name": "taste-design",
+      "kind": "adapted-upstream",
+      "sha256": "7fd82a5ae9432c3747a890670d3dadc5f842c09e670114978a1a0f8fc08b7bfa"
+    },
+    {
+      "name": "site-md",
+      "kind": "adapted-upstream",
+      "sha256": "b93feec1c10baa5a5d4dd5d4d1023df33836d48cdd160c2f2922d4839749cf39"
+    },
+    {
+      "name": "react-components",
+      "kind": "adapted-upstream",
+      "sha256": "a4c85d65cb05b6001af696e3a19d6a843cbf4304dd8e5ccb7e9cd30a13ee57eb"
+    },
+    {
+      "name": "stitch-studio",
+      "kind": "custom",
+      "sha256": "a33c858cc60f83b320a2dc5c06eb68d86ab019994419187d7eefd8d7bf840fbf"
+    },
+    {
+      "name": "stitch-site-builder",
+      "kind": "custom",
+      "sha256": "7724c05f9cc2bef8fd2ad449173fedfdfd6b4e71db8118d17bc36bcf619b92c5"
+    },
+    {
+      "name": "stitch-motion",
+      "kind": "custom",
+      "sha256": "ba86881c1131dfa99bff288dc15ce8a210af7672ac220d9d0e1391bdcb4308f2"
+    }
+  ]
+}

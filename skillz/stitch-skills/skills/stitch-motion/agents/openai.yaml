@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stitch Motion"
+  short_description: "Purposeful animation for Stitch-derived sites"
+  default_prompt: "Use $stitch-motion to add and verify restrained animation with reduced-motion support."

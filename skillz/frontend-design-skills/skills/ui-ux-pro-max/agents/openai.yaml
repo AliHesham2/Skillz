@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI UX Pro Max"
+  short_description: "Searchable design intelligence for our UI workflow"
+  default_prompt: "Use $ui-ux-pro-max to research an appropriate visual direction for this product."

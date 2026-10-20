@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stitch Studio"
+  short_description: "Our Stitch design and multi-page workflow"
+  default_prompt: "Use $stitch-studio to design a cohesive site in Stitch and plan its connected pages."

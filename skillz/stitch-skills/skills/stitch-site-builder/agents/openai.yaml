@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stitch Site Builder"
+  short_description: "Build linked, responsive sites from Stitch designs"
+  default_prompt: "Use $stitch-site-builder to implement these Stitch screens as a working multi-page website."
