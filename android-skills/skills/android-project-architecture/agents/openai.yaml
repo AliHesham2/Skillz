@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Architecture and Maintenance"
+  short_description: "Preserve architecture for fixes and new features"
+  default_prompt: "Use $android-project-architecture to understand this project and implement the requested change within its existing architecture."

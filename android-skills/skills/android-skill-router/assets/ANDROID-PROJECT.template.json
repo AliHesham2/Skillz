@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "workMode": "starter",
+  "project": {
+    "root": null,
+    "name": null,
+    "appModule": ":app",
+    "namespace": null,
+    "applicationId": null
+  },
+  "presentation": {
+    "ui": "compose",
+    "pattern": "mvi",
+    "packageProfile": "petcompose"
+  },
+  "navigation": { "requested": null },
+  "data": {
+    "local": null,
+    "remote": null,
+    "sourceOfTruth": null,
+    "cachePolicy": null
+  },
+  "baseline": { "hilt": true, "coroutines": true, "flow": true },
+  "settings": {
+    "appearanceSelection": null,
+    "appLanguageSelection": null,
+    "storageOwner": null
+  },
+  "capabilities": {
+    "services": null,
+    "receivers": null,
+    "notifications": null,
+    "widgets": null,
+    "backgroundWork": null
+  },
+  "features": [],
+  "manualImports": [
+    { "path": "ui/commonui", "status": "pending-user-copy" },
+    { "path": "util/ResultCallBack.kt", "status": "pending-user-copy" },
+    { "symbol": "rememberDebounceClick", "path": null, "status": "pending-user-copy" }
+  ],
+  "versions": {},
+  "observed": {},
+  "decisions": [],
+  "generation": {
+    "revision": 0,
+    "files": [],
+    "pendingIntegrations": [],
+    "evidence": []
+  }
+}

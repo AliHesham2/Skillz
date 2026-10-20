@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Screen State and ViewModel"
+  short_description: "Adapt screen state and operations to the project"
+  default_prompt: "Use $android-viewmodel-state to fix or extend this screen state while preserving its existing architecture and action APIs."

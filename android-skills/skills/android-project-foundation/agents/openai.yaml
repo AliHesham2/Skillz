@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose Starter Foundation"
+  short_description: "Create the starter from saved project choices"
+  default_prompt: "Use $android-project-foundation to create the starter architecture from ANDROID-PROJECT.json."

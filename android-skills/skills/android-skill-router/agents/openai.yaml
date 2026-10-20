@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Project Coordinator"
+  short_description: "Route fixes, features and optional Compose starters"
+  default_prompt: "Use $android-skill-router to identify the task mode and select the relevant guidance for this Compose project."
